@@ -4,5 +4,5 @@
 <h2 align="center">🛠️ My Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,dotnet,cs,sqlserver,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,dotnet,cs,sqlserver,html,css,git,github,visualstudio,vscode" />
 </p>
