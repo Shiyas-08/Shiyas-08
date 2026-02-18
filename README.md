@@ -11,13 +11,27 @@
 - 📫 Reach me: shiyasmuhammed541@gmail.com  
 
 ---
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<<h2 align="center">🛠️ Tech Stack</h2>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,sqlserver,js,ts,tailwind,html,css,git,github,visualstudio,vscode&perline=8" />
-</p>
+### 🚀 Languages & Frameworks
 
+<img src="https://skillicons.dev/icons?i=angular,dotnet,cs,js,ts,html,css,sqlserver&perline=4" />
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,tailwind&perline=4" />
+
+</td>
+</tr>
+</table>
 
 
 ---
