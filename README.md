@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,dotnet,cs,sqlserver,html,css,git,github,visualstudio,vscode" />
@@ -20,12 +20,10 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiyas-08&show_icons=true&theme=tokyonight" />
-</p>
+- 🛒 E-commerce Platform (Angular + .NET Core)  
+- 🌐 Portfolio Website  
+- 🧮 Calculator Console App  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiyas-08&theme=tokyonight" />
-</p>
+---
