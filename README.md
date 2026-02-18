@@ -17,5 +17,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind,dotnet,cs,sqlserver,html,css,git,github,visualstudio,vscode" />
 </p>
+<img src="https://skillicons.dev/icons?i=angular,dotnet,cs,sqlserver,js,ts,tailwind,html,css,git,github,visualstudio,vscode" />
+
 
 ---
