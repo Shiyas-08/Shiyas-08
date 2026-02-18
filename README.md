@@ -19,11 +19,3 @@
 </p>
 
 ---
-
-### 🚀 Featured Projects
-
-- 🛒 E-commerce Platform (Angular + .NET Core)  
-- 🌐 Portfolio Website  
-- 🧮 Calculator Console App  
-
----
