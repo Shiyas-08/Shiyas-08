@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as Full Stack Intern  
+- 🔭 Currently working as Full Stack Developer  
 - 🌱 Learning Advanced .NET Core  
 - 💬 Ask me about Angular, .NET Core, SQL Server  
 - 📫 Reach me: shiyasmuhammed541@gmail.com  
